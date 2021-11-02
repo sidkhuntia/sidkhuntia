@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidkhuntia&label=Profile%20views&color=0e75b6&style=flat" alt="sidkhuntia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/siddharthakhunt" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthakhunt?logo=twitter&style=for-the-badge" alt="siddharthakhunt" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sidkhuntia_" target="blank"><img src="https://img.shields.io/twitter/follow/siddharthakhunt?logo=twitter&style=for-the-badge" alt="sidkhuntia_" /></a> </p>
 
 - 🔭 I’m currently working on [sudoku.](https://github.com/sidkhuntia/sudoku)
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/siddharthakhunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddharthakhunt" height="30" width="40" /></a>
-<a href="https://instagram.com/siddharthakhuntia._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharthakhuntia._" height="30" width="40" /></a>
+<a href="https://twitter.com/sidkhuntia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidkhuntia_" height="30" width="40" /></a>
+<a href="https://instagram.com/sidkhuntia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidkhuntia_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/khuntiasid" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="khuntiasid" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sidkhuntia" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="sidkhuntia" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sidkhuntia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidkhuntia" height="30" width="40" /></a>
