@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidkhuntia&label=Profile%20views&color=0e75b6&style=flat" alt="sidkhuntia" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/sidkhuntia_" target="blank"><img src="https://img.shields.io/twitter/follow/sidkhuntia_?logo=twitter&style=for-the-badge" alt="sidkhuntia_" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/sidkhuntia_" target="blank"><img src="https://img.shields.io/twitter/follow/sidkhuntia_?logo=twitter&style=for-the-badge" alt="sidkhuntia_" /></a> </p> -->
 
 <!-- - 🔭 I’m currently working on [sudoku.](https://github.com/sidkhuntia/sudoku) -->
 
