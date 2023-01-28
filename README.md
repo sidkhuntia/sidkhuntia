@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sidkhuntia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidkhuntia_" height="30" width="40" /></a>
-<a href="https://instagram.com/sidkhuntia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidkhuntia_" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/sidkhuntia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sidkhuntia_" height="30" width="40" /></a> -->
 <!-- <a href="https://www.codechef.com/users/khuntiasid" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="khuntiasid" height="30" width="40" /></a> -->
-<a href="https://codeforces.com/profile/sidkhuntia" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="sidkhuntia" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/sidkhuntia" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" alt="sidkhuntia" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/sidkhuntia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sidkhuntia" height="30" width="40" /></a> -->
 <!-- <a href="https://auth.geeksforgeeks.org/user/siddharthakhuntia/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siddharthakhuntia/profile" height="30" width="40" /></a> -->
 </p>
