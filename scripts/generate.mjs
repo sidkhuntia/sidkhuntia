@@ -35,23 +35,23 @@ const css = `
   .bar{fill:#378ADD}.on{fill:#24292f}.off{fill:#d0d7de}
   @media (prefers-color-scheme:dark){.t{fill:#9198a1}.bar{fill:#58a6ff}.on{fill:#e6edf3}.off{fill:#30363d}}`;
 
-// waveform: one mirrored bar per week, last 52 weeks
-const weeks = contributionsCollection.contributionCalendar.weeks
-  .map((w) => w.contributionDays.reduce((n, d) => n + d.contributionCount, 0))
-  .slice(-52);
-const max = Math.max(...weeks, 1);
-const H = 60;
-const bars = weeks
+// waveform: one mirrored bar per day for the last 52 weeks, log-scaled so quiet days still show
+const days = contributionsCollection.contributionCalendar.weeks
+  .flatMap((w) => w.contributionDays.map((d) => d.contributionCount))
+  .slice(-364);
+const max = Math.max(...days, 1);
+const H = 60, PITCH = 640 / days.length;
+const bars = days
   .map((n, i) => {
-    const r = Math.max(0.08, Math.sqrt(n / max));
-    const h = (r * (H - 8)).toFixed(1);
+    const r = Math.max(0.06, Math.log1p(n) / Math.log1p(max));
+    const h = (r * (H - 6)).toFixed(1);
     const op = (0.4 + r * 0.6).toFixed(2);
-    return `<rect class="bar" x="${(i * 12.3 + 4).toFixed(1)}" y="${(H / 2 - h / 2).toFixed(1)}" width="7" height="${h}" rx="3.5" opacity="${op}"/>`;
+    return `<rect class="bar" x="${(i * PITCH).toFixed(2)}" y="${(H / 2 - h / 2).toFixed(1)}" width="${(PITCH * 0.62).toFixed(2)}" height="${h}" rx="0.7" opacity="${op}"/>`;
   })
   .join("");
 writeFileSync(
   "assets/waveform.svg",
-  `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 ${H}" width="640" height="${H}" role="img" aria-label="Commit activity over the last 52 weeks drawn as a waveform"><style>${css}</style>${bars}</svg>\n`
+  `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 ${H}" width="640" height="${H}" role="img" aria-label="Daily commit activity over the last year drawn as a waveform"><style>${css}</style>${bars}</svg>\n`
 );
 
 // mixer: top languages by bytes across owned, non-fork repos
@@ -90,4 +90,4 @@ const next = readme.replace(
   `$1\n${list}\n$2`
 );
 writeFileSync("README.md", next);
-console.log(`weeks=${weeks.length} langs=${top.map((t) => t[0]).join(",")} building=${recent.map((r) => r.name).join(",")}`);
+console.log(`days=${days.length} langs=${top.map((t) => t[0]).join(",")} building=${recent.map((r) => r.name).join(",")}`);

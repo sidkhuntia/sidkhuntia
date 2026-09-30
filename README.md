@@ -2,9 +2,9 @@
 <p align="center">i write code, mostly with headphones on</p>
 
 <p align="center">
-  <img src="assets/waveform.svg" alt="my last 52 weeks of commits, drawn as a waveform" width="640" />
+  <img src="assets/waveform.svg" alt="my last year of daily commits, drawn as a waveform" width="640" />
   <br>
-  <sub><code>52 weeks of commits, as sound</code></sub>
+  <sub><code>a year of commits, as sound</code></sub>
 </p>
 
 <p align="center">
@@ -23,12 +23,12 @@
 
 `01` building<br>
 <!--BUILDING:START-->
-01 [yakitsu](https://github.com/sidkhuntia/yakitsu)<br>
+01 [yakitsu](https://github.com/sidkhuntia/yakitsu) · A desktop-first, offline 8-bit typing runner game<br>
 02 [dsalgo](https://github.com/sidkhuntia/dsalgo)<br>
-03 [rune](https://github.com/sidkhuntia/rune)
+03 [rune](https://github.com/sidkhuntia/rune) · A CLI tool to generate Git commit messages
 <!--BUILDING:END-->
 
-`02` using · Java, TypeScript, React, Postgres
+`02` using · Python, Go, TypeScript, React
 
 </td>
 <td width="50%" valign="top">
