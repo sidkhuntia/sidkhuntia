@@ -23,8 +23,8 @@
 
 `01` building<br>
 <!--BUILDING:START-->
-01 [homebrew-tap](https://github.com/sidkhuntia/homebrew-tap) · Homebrew tap for echo-desk<br>
-02 [echo](https://github.com/sidkhuntia/echo)<br>
+01 [echo](https://github.com/sidkhuntia/echo)<br>
+02 [homebrew-tap](https://github.com/sidkhuntia/homebrew-tap) · Homebrew tap for echo-desk<br>
 03 [rune](https://github.com/sidkhuntia/rune) · A CLI tool to generate Git commit messages
 <!--BUILDING:END-->
 
