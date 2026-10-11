@@ -23,9 +23,9 @@
 
 `01` building<br>
 <!--BUILDING:START-->
-01 [echo](https://github.com/sidkhuntia/echo)<br>
-02 [homebrew-tap](https://github.com/sidkhuntia/homebrew-tap) · Homebrew tap for echo-desk<br>
-03 [rune](https://github.com/sidkhuntia/rune) · A CLI tool to generate Git commit messages
+01 [yakitsu](https://github.com/sidkhuntia/yakitsu) · A desktop-first, offline 8-bit typing runner game<br>
+02 [echo](https://github.com/sidkhuntia/echo)<br>
+03 [homebrew-tap](https://github.com/sidkhuntia/homebrew-tap) · Homebrew tap for echo-desk
 <!--BUILDING:END-->
 
 `02` using · Python, Go, TypeScript, React
