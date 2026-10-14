@@ -23,9 +23,9 @@
 
 `01` building<br>
 <!--BUILDING:START-->
-01 [yakitsu](https://github.com/sidkhuntia/yakitsu) · A desktop-first, offline 8-bit typing runner game<br>
-02 [echo](https://github.com/sidkhuntia/echo)<br>
-03 [homebrew-tap](https://github.com/sidkhuntia/homebrew-tap) · Homebrew tap for echo-desk
+01 [direct-x-links](https://github.com/sidkhuntia/direct-x-links) · Chrome extension: open x.com/twitter.com links directly instead of via t.co<br>
+02 [yakitsu](https://github.com/sidkhuntia/yakitsu) · A desktop-first, offline 8-bit typing runner game<br>
+03 [echo](https://github.com/sidkhuntia/echo)
 <!--BUILDING:END-->
 
 `02` using · Python, Go, TypeScript, React
