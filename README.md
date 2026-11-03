@@ -23,8 +23,8 @@
 
 `01` building<br>
 <!--BUILDING:START-->
-01 [homebrew-tap](https://github.com/sidkhuntia/homebrew-tap) · Homebrew tap for echo-desk<br>
-02 [echo](https://github.com/sidkhuntia/echo)<br>
+01 [echo](https://github.com/sidkhuntia/echo)<br>
+02 [homebrew-tap](https://github.com/sidkhuntia/homebrew-tap) · Homebrew tap for echo-desk<br>
 03 [direct-x-links](https://github.com/sidkhuntia/direct-x-links) · Chrome extension: open x.com/twitter.com links directly instead of via t.co
 <!--BUILDING:END-->
 
